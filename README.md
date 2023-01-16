@@ -37,6 +37,7 @@ Let's build something amazing together!
 🤝 Contact me:
 
 Email: abrahamgetachew@hotmail.com
+
 LinkedIn: https://www.linkedin.com/in/abraham-g-570350133/
 
 Thank you for visiting my profile! 👋
