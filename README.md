@@ -1,4 +1,5 @@
-# Welcome to my GitHub Profile 🎉
+<img src="https://github.com/AbeGeta/AbeGeta/blob/main/github_profile_header.png" alt="banner that says Hi, I'm Abe">
+
 My name is Abraham Getachew and I am a Full-Stack Developer with a passion for coding and building innovative projects.
 
 I graduated from Heritage College in 2022, where I gained experience working in Agile methodologies and using technologies such as C# .NET, SQL Server, and Java. I've also been a part of a team that built a pet kennel reservation system, and a coding challenge system for my college.
