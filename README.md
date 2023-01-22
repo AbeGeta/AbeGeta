@@ -28,6 +28,8 @@ Take a look at some of my projects and let me know if you have any questions or 
 * Coding
 * Building innovative projects
 * Learning new technologies
+* Weightlifting
+* Reading
 * Skiing
 
 💻 Available for hire!
