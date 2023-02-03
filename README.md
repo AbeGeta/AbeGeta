@@ -19,17 +19,21 @@ Take a look at some of my projects and let me know if you have any questions or 
 * Node.js
 * Python
 * JavaScript
+* TypeScript
 * Agile Methodologies
 * Visual Basic
+* PostgreSQL
+* MongoDB
+* PHP
 * Kotlin
 
 🔥 Passion:
 
-* Coding
 * Building innovative projects
 * Learning new technologies
 * Weightlifting
 * Reading
+* Mixed Martial Arts
 * Skiing
 
 💻 Available for hire!
@@ -40,6 +44,6 @@ Let's build something amazing together!
 
 Email: abrahamgetachew@hotmail.com
 
-LinkedIn: https://www.linkedin.com/in/abraham-g-570350133/
+LinkedIn: https://www.linkedin.com/in/AbeGeta
 
 Thank you for visiting my profile! 👋
