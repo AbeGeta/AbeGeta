@@ -25,7 +25,6 @@ Take a look at some of my projects and let me know if you have any questions or 
 * PostgreSQL
 * MongoDB
 * PHP
-* Kotlin
 
 🔥 Passion:
 
